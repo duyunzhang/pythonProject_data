@@ -1,0 +1,47 @@
+- description: 用例1
+  data:
+    city: 葫芦岛
+    province: 辽宁
+
+- description: 用例2
+  data:
+    city: 沈阳
+    province: 辽宁
+
+- description: 用例3
+  data:
+    city: 济南
+    province: 山东
+
+- description: 用例4
+  data:
+    city:
+    province: 深圳
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

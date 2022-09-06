@@ -1,0 +1,14 @@
+1662132146277	geckodriver	INFO	geckodriver 0.20.1
+1662132146300	geckodriver	INFO	Listening on 127.0.0.1:49168
+1662132149005	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "-marionette" "-profile" "C:\\Users\\15723\\AppData\\Local\\Temp\\rust_mozprofile.WTTE7z3bjxUt"
+1662132149377	Marionette	INFO	Marionette enabled
+1662132149383	Marionette	INFO	Listening on port 49177
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662132188415	geckodriver	INFO	geckodriver 0.20.1
+1662132188430	geckodriver	INFO	Listening on 127.0.0.1:58233
+1662132191457	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "-marionette" "-profile" "C:\\Users\\15723\\AppData\\Local\\Temp\\rust_mozprofile.VdTKx12MNY0C"
+1662132191777	Marionette	INFO	Marionette enabled
+1662132191781	Marionette	INFO	Listening on port 58241
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+[Parent 122984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662132206975	Marionette	INFO	Stopped listening on port 58241
